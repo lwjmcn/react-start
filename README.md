@@ -1,3 +1,8 @@
+# Movie-App
+nomadcoder.co react start class project (no design)\
+https://lwjmcn.github.io/react-start/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
